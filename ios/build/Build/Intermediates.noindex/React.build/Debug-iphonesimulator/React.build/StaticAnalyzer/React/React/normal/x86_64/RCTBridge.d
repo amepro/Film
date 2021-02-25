@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native/React/Base/RCTReloadCommand.h

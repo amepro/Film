@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.m \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
+  /Users/amepro/Downloads/MoviesAndMe-master/node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.h
